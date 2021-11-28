@@ -1,0 +1,3 @@
+# DiscursivaOO
+
+Fiz o projeto em algumas horas, não pretendia utilizar o git como versionamento, apenas pra hospedar o código...
