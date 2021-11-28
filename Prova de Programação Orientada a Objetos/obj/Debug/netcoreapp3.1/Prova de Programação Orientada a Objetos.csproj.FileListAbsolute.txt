@@ -1,0 +1,15 @@
+C:\Users\gusta\source\repos\Prova de Programação Orientada a Objetos\Prova de Programação Orientada a Objetos\bin\Debug\netcoreapp3.1\Prova de Programação Orientada a Objetos.exe
+C:\Users\gusta\source\repos\Prova de Programação Orientada a Objetos\Prova de Programação Orientada a Objetos\bin\Debug\netcoreapp3.1\Prova de Programação Orientada a Objetos.deps.json
+C:\Users\gusta\source\repos\Prova de Programação Orientada a Objetos\Prova de Programação Orientada a Objetos\bin\Debug\netcoreapp3.1\Prova de Programação Orientada a Objetos.runtimeconfig.json
+C:\Users\gusta\source\repos\Prova de Programação Orientada a Objetos\Prova de Programação Orientada a Objetos\bin\Debug\netcoreapp3.1\Prova de Programação Orientada a Objetos.runtimeconfig.dev.json
+C:\Users\gusta\source\repos\Prova de Programação Orientada a Objetos\Prova de Programação Orientada a Objetos\bin\Debug\netcoreapp3.1\Prova de Programação Orientada a Objetos.dll
+C:\Users\gusta\source\repos\Prova de Programação Orientada a Objetos\Prova de Programação Orientada a Objetos\bin\Debug\netcoreapp3.1\Prova de Programação Orientada a Objetos.pdb
+C:\Users\gusta\source\repos\Prova de Programação Orientada a Objetos\Prova de Programação Orientada a Objetos\obj\Debug\netcoreapp3.1\Prova de Programação Orientada a Objetos.csprojAssemblyReference.cache
+C:\Users\gusta\source\repos\Prova de Programação Orientada a Objetos\Prova de Programação Orientada a Objetos\obj\Debug\netcoreapp3.1\Prova de Programação Orientada a Objetos.csproj.GenerateResource.cache
+C:\Users\gusta\source\repos\Prova de Programação Orientada a Objetos\Prova de Programação Orientada a Objetos\obj\Debug\netcoreapp3.1\Prova de Programação Orientada a Objetos.AssemblyInfoInputs.cache
+C:\Users\gusta\source\repos\Prova de Programação Orientada a Objetos\Prova de Programação Orientada a Objetos\obj\Debug\netcoreapp3.1\Prova de Programação Orientada a Objetos.AssemblyInfo.cs
+C:\Users\gusta\source\repos\Prova de Programação Orientada a Objetos\Prova de Programação Orientada a Objetos\obj\Debug\netcoreapp3.1\Prova de Programação Orientada a Objetos.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\Prova de Programação Orientada a Objetos\Prova de Programação Orientada a Objetos\obj\Debug\netcoreapp3.1\Prova de Programação Orientada a Objetos.dll
+C:\Users\gusta\source\repos\Prova de Programação Orientada a Objetos\Prova de Programação Orientada a Objetos\obj\Debug\netcoreapp3.1\Prova de Programação Orientada a Objetos.pdb
+C:\Users\gusta\source\repos\Prova de Programação Orientada a Objetos\Prova de Programação Orientada a Objetos\obj\Debug\netcoreapp3.1\Prova de Programação Orientada a Objetos.genruntimeconfig.cache
+C:\Users\gusta\source\repos\Prova de Programação Orientada a Objetos\Prova de Programação Orientada a Objetos\obj\Debug\netcoreapp3.1\Prova_de_Programação_Orientada_a_Objetos.frmMain.resources
