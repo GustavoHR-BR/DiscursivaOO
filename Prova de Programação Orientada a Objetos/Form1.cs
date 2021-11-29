@@ -88,11 +88,11 @@ namespace Prova_de_Programação_Orientada_a_Objetos
         {
             cboxGen.DataSource = Enum.GetNames(typeof(Jovem.Generos));
             dgJovens.DataSource = Jovem.Listar();
-            edtNome.Focus();
             if (Jovem.Listar().Count > 0)
             {
                 calculaPercentuais();
             }
+            edtNome.Focus();
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -110,8 +110,9 @@ namespace Prova_de_Programação_Orientada_a_Objetos
             Random random = new Random();
             int s = 0;
             int nome = 0;
+            int aux = random.Next(0, 100);
 
-            for (int i = 0; i < 25; i++)
+            for (int i = 0; i < aux; i++)
             {
                 s = random.Next(0, 2);
                 nome = random.Next(0, 9);
@@ -125,7 +126,8 @@ namespace Prova_de_Programação_Orientada_a_Objetos
                 dgJovens.DataSource = Jovem.Listar();
             }
 
-            for (int i = 0; i < 25; i++)
+            aux = random.Next(0, 100);
+            for (int i = 0; i < aux; i++)
             {
                 s = random.Next(0, 2);
                 nome = random.Next(0, 9);

@@ -81,13 +81,13 @@ namespace Prova_de_Programação_Orientada_a_Objetos
             this.cboxGen.FormattingEnabled = true;
             this.cboxGen.Location = new System.Drawing.Point(35, 126);
             this.cboxGen.Name = "cboxGen";
-            this.cboxGen.Size = new System.Drawing.Size(224, 23);
+            this.cboxGen.Size = new System.Drawing.Size(211, 23);
             this.cboxGen.TabIndex = 3;
             // 
             // btnGeraDados
             // 
             this.btnGeraDados.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnGeraDados.Location = new System.Drawing.Point(168, 248);
+            this.btnGeraDados.Location = new System.Drawing.Point(155, 248);
             this.btnGeraDados.Name = "btnGeraDados";
             this.btnGeraDados.Size = new System.Drawing.Size(91, 30);
             this.btnGeraDados.TabIndex = 10;
@@ -98,10 +98,10 @@ namespace Prova_de_Programação_Orientada_a_Objetos
             // dgJovens
             // 
             this.dgJovens.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgJovens.Location = new System.Drawing.Point(296, 199);
+            this.dgJovens.Location = new System.Drawing.Point(268, 199);
             this.dgJovens.Name = "dgJovens";
             this.dgJovens.RowTemplate.Height = 25;
-            this.dgJovens.Size = new System.Drawing.Size(427, 153);
+            this.dgJovens.Size = new System.Drawing.Size(455, 153);
             this.dgJovens.TabIndex = 9;
             // 
             // btnNao
@@ -152,41 +152,41 @@ namespace Prova_de_Programação_Orientada_a_Objetos
             // 
             this.edtNome.Location = new System.Drawing.Point(35, 64);
             this.edtNome.Name = "edtNome";
-            this.edtNome.Size = new System.Drawing.Size(224, 23);
+            this.edtNome.Size = new System.Drawing.Size(211, 23);
             this.edtNome.TabIndex = 4;
             // 
             // progressBarHDes
             // 
-            this.progressBarHDes.Location = new System.Drawing.Point(503, 46);
+            this.progressBarHDes.Location = new System.Drawing.Point(472, 46);
             this.progressBarHDes.Name = "progressBarHDes";
-            this.progressBarHDes.Size = new System.Drawing.Size(220, 23);
+            this.progressBarHDes.Size = new System.Drawing.Size(251, 23);
             this.progressBarHDes.TabIndex = 11;
             // 
             // progressBarHEmp
             // 
-            this.progressBarHEmp.Location = new System.Drawing.Point(503, 75);
+            this.progressBarHEmp.Location = new System.Drawing.Point(472, 75);
             this.progressBarHEmp.Name = "progressBarHEmp";
-            this.progressBarHEmp.Size = new System.Drawing.Size(220, 23);
+            this.progressBarHEmp.Size = new System.Drawing.Size(251, 23);
             this.progressBarHEmp.TabIndex = 12;
             // 
             // progressBarMDes
             // 
-            this.progressBarMDes.Location = new System.Drawing.Point(503, 104);
+            this.progressBarMDes.Location = new System.Drawing.Point(472, 104);
             this.progressBarMDes.Name = "progressBarMDes";
-            this.progressBarMDes.Size = new System.Drawing.Size(220, 23);
+            this.progressBarMDes.Size = new System.Drawing.Size(251, 23);
             this.progressBarMDes.TabIndex = 13;
             // 
             // progressBarMEmp
             // 
-            this.progressBarMEmp.Location = new System.Drawing.Point(503, 133);
+            this.progressBarMEmp.Location = new System.Drawing.Point(472, 133);
             this.progressBarMEmp.Name = "progressBarMEmp";
-            this.progressBarMEmp.Size = new System.Drawing.Size(220, 23);
+            this.progressBarMEmp.Size = new System.Drawing.Size(251, 23);
             this.progressBarMEmp.TabIndex = 14;
             // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(295, 54);
+            this.label4.Location = new System.Drawing.Point(285, 54);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(137, 15);
             this.label4.TabIndex = 15;
@@ -196,7 +196,7 @@ namespace Prova_de_Programação_Orientada_a_Objetos
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(295, 83);
+            this.label5.Location = new System.Drawing.Point(285, 83);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(124, 15);
             this.label5.TabIndex = 16;
@@ -206,7 +206,7 @@ namespace Prova_de_Programação_Orientada_a_Objetos
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(296, 112);
+            this.label6.Location = new System.Drawing.Point(286, 112);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(140, 15);
             this.label6.TabIndex = 17;
@@ -216,7 +216,7 @@ namespace Prova_de_Programação_Orientada_a_Objetos
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(296, 141);
+            this.label7.Location = new System.Drawing.Point(286, 141);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(128, 15);
             this.label7.TabIndex = 18;
@@ -226,7 +226,7 @@ namespace Prova_de_Programação_Orientada_a_Objetos
             // porcHDes
             // 
             this.porcHDes.AutoSize = true;
-            this.porcHDes.Location = new System.Drawing.Point(453, 54);
+            this.porcHDes.Location = new System.Drawing.Point(434, 54);
             this.porcHDes.Name = "porcHDes";
             this.porcHDes.Size = new System.Drawing.Size(23, 15);
             this.porcHDes.TabIndex = 19;
@@ -235,7 +235,7 @@ namespace Prova_de_Programação_Orientada_a_Objetos
             // porcHEmp
             // 
             this.porcHEmp.AutoSize = true;
-            this.porcHEmp.Location = new System.Drawing.Point(453, 83);
+            this.porcHEmp.Location = new System.Drawing.Point(434, 83);
             this.porcHEmp.Name = "porcHEmp";
             this.porcHEmp.Size = new System.Drawing.Size(23, 15);
             this.porcHEmp.TabIndex = 20;
@@ -244,7 +244,7 @@ namespace Prova_de_Programação_Orientada_a_Objetos
             // porcMDes
             // 
             this.porcMDes.AutoSize = true;
-            this.porcMDes.Location = new System.Drawing.Point(453, 112);
+            this.porcMDes.Location = new System.Drawing.Point(434, 112);
             this.porcMDes.Name = "porcMDes";
             this.porcMDes.Size = new System.Drawing.Size(23, 15);
             this.porcMDes.TabIndex = 21;
@@ -253,7 +253,7 @@ namespace Prova_de_Programação_Orientada_a_Objetos
             // porcMEmp
             // 
             this.porcMEmp.AutoSize = true;
-            this.porcMEmp.Location = new System.Drawing.Point(453, 141);
+            this.porcMEmp.Location = new System.Drawing.Point(434, 141);
             this.porcMEmp.Name = "porcMEmp";
             this.porcMEmp.Size = new System.Drawing.Size(23, 15);
             this.porcMEmp.TabIndex = 22;
